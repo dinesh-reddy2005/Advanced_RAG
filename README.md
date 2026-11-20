@@ -65,11 +65,11 @@ Groq LLM
 
 ### Chatbot Interface
 
-![Chatbot Home](screenshots/chatbot home page.png)
+![Chatbot Home](./screenshots/chatbot_homepage.png)
 
 ### Document Question Answering
 
-![Chatbot Response](screenshots/chatbot response.png)
+![Chatbot Response](./screenshots/chatbot_response.png)
 
 
 ## Installation
